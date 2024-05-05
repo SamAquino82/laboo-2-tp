@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1714680900 source:c:\users\sam\desktop\practicas c++\laboratorio 2\tp labo 2\main.cpp
+	<iostream>
+
+1714921794 source:c:\users\sam\desktop\practicas c++\laboratorio 2\tp labo 2\empresas.cpp
+	<iostream>
+	"empresas.h"
+
+1714921449 c:\users\sam\desktop\practicas c++\laboratorio 2\tp labo 2\empresas.h
+
